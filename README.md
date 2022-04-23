@@ -26,7 +26,9 @@ __Provider__: Virtualbox
 
 ## IP for VMs.
 __master:__ 192.168.56.20
+
 __worker0:__ 192.168.56.21
+
 __worker1:__ 192.168.56.22
 
 ## Author
