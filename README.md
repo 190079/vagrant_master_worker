@@ -6,7 +6,9 @@ This is a collection of vagrant script which sets up virtualbox with 1 master no
 The purpose of this script is to set ubuntu working environments.
 
 __Box:__ generic/ubuntu2004
+
 __RAM:__ 1GB
+
 __Provider__: Virtualbox
 
 
